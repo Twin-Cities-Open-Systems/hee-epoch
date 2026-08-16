@@ -33,3 +33,13 @@ protection went from documentation to something actually enforced, and a
 Mercury virtual card taught us in real time where the line between
 "internal tooling" and "regulated financial identity" actually sits. Not
 all of it went the way it was first pictured. All of it is real.
+
+---
+
+**2026-08-16, same day, correction**: the first commit's message said "0s
+complete" -- wrong, and worth leaving visible rather than rewritten.
+What's actually complete is that this journal now exists and has its
+first entry. Genesis itself is not done: no PEN filed yet, no root/
+intermediate keys generated, on-prem git not built, the actual #102
+ceremony hasn't happened. "Verified, not claimed" applies to this repo's
+own commits too -- caught here, not smoothed over.
